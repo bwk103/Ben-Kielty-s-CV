@@ -28,7 +28,7 @@ As part of my final project, I worked as part of a team developing [Makers Rooms
 Through the development of [Makers Rooms](https://github.com/sliute/AlexaBookEvent), I obtained experience using Amazon's **Alexa Skills Kit**, **Lambda** functions and **DynamoDB** services.  
 
 ### Ruby
-**Rails:** The back-end of [Fix City](https://github.com/KatHicks/fix-city) uses Ruby on Rails and allows the user to save their reported incidents to a PostgreSQL database.  I have also used Rails to develop a basic ['Yelp' based restaurant application](https://github.com/bwk103/yelp_clone) which also users OmniAuth to authenticate users via their Facebook login details.
+**Rails:** The back-end of [Fix City](https://github.com/KatHicks/fix-city) uses Ruby on Rails and allows the user to save their reported incidents to a PostgreSQL database.  I have also used Rails to develop a basic ['Yelp' based restaurant application](https://github.com/bwk103/yelp_clone) which uses OmniAuth to authenticate users via their Facebook login details.
 
 **Sinatra:**  
 Using Sinatra, I developed [Chitter](https://github.com/bwk103/chitter-challenge) a Twitter clone which allows users to post and read short messages and '[Rock, Papers, Scissors, Lizard, Spock](https://github.com/bwk103/rps-challenge) which allows users to play a modern take on Rock, Paper Scissors.  Both applications were created using TDD methods, using RSpec and Capybara to conduct tests.
