@@ -1,7 +1,7 @@
 # **Ben Kielty**
 
-[Github](https://github.com/bwk103)       
-[LinkedIn](https://www.linkedin.com/in/benkielty/)
+* [LinkedIn](https://www.linkedin.com/in/benkielty/)
+* [Github](https://github.com/bwk103)
 
 ---
 
@@ -9,32 +9,46 @@
 
 I am a law graduate and former Paralegal turned junior full-stack web developer via a twelve week coding bootcamp at Makers Academy.
 
-After ten years of working at well-respected law firms, I left the industry in 2016 and challenged myself to learn to code.  My experience at Makers Academy has transformed me from someone with an interest in technology and code, into a developer with a good understanding of several languages and a continuing desire to further learn and broaden my knowledge.
+After ten years of working at well-respected law firms, I left the legal profession in 2016 and challenged myself to learn to code. My experience at Makers Academy transformed me from someone with an interest in technology and code, into a developer with a good understanding of several languages and a desire to further broaden that knowledge.
 
-Following my graduation in March 2017, I'm now seeking a junior software development role which offers a challenging environment as well as one which can facilitate my personal growth as a developer.
+Following my graduation in March 2017, I have continued to undertake courses and have completed a number of projects using the MEAN stack. I'm currently seeking a junior software development role which offers a challenging environment as well as one which can facilitate my personal growth as a developer.
 
 ----
 ## Skills
 
-During the Makers Academy course, I gained experience using the following languages and technologies:
+### Javascript / Typescript
 
-### Javascript
-**Node.js:**
-As part of my final project, I worked as part of a team developing [Makers Rooms](https://github.com/sliute/AlexaBookEvent), an Amazon Echo skill  for creating and managing meeting room bookings.  The skill was created using Node JS and testing locally using Mocha and Chai.
+**[Makers Rooms](https://github.com/sliute/AlexaBookEvent)** was developed as part of my final project at Makers and allows users to manage meeting room bookings using an Amazon Echo.
+* A user is able to enquire as to whether a meeting room is currently available and/or to make a booking at a particular time and date.
+* The application was developed using Node.js and the 'Alexa-app' module and tested using Alexa-App-Server (feature tests) and Mocha/Chai (unit tests).
+* The Node.js backend reads and writes events to an instance of Amazon DynamoDB via AWS Lambda.
 
-**jQuery:** As part of the development of [Fix City](https://github.com/KatHicks/fix-city) (a web application allowing individuals to report minor civil problems to their local council), I was responsible for integrating Google Maps API into the project and using jQuery in the submission of geolocation data.
-
-### Amazon Web Services
-Through the development of [Makers Rooms](https://github.com/sliute/AlexaBookEvent), I obtained experience using Amazon's **Alexa Skills Kit**, **Lambda** functions and **DynamoDB** services.  
+**[Planter](https://github.com/bwk103/planter)** is an application which allows users to manage their lawn and garden plants.
+* A user is able to log the details of plants in their garden and receive reminders as to maintenance work that is required (e.g. watering or pruning).
+* The backend of the application uses Node.js and an Express framework and writes to a MongoDB database.  
+* The frontend is a single-page web application developed using Angular 4.0 and Bootstrap.
 
 ### Ruby
-**Rails:** The back-end of [Fix City](https://github.com/KatHicks/fix-city) uses Ruby on Rails and allows the user to save their reported incidents to a PostgreSQL database.  I have also used Rails to develop a basic ['Yelp' based restaurant application](https://github.com/bwk103/yelp_clone) which uses OmniAuth to authenticate users via their Facebook login details.
 
-**Sinatra:**  
-Using Sinatra, I developed [Chitter](https://github.com/bwk103/chitter-challenge) a Twitter clone which allows users to post and read short messages and '[Rock, Papers, Scissors, Lizard, Spock](https://github.com/bwk103/rps-challenge) which allows users to play a modern take on Rock, Paper Scissors.  Both applications were created using TDD methods, using RSpec and Capybara to conduct tests.
+As part of the Makers course, I completed several projects using Ruby, Sinatra and Rails as well as a number of Gems.
+
+**[Fix City](https://github.com/bwk103/fix-city-1)** is an application which enables users to report minor civil issues, such as potholes or fly-tipping, to their local Council.
+* I worked as part of a team to develop the application over the course of five days. The backend of the project uses Ruby on Rails and writes to a PostgreSQL database.  
+* A number of Gems were also used including Paperclip (allowing users to upload images) and Cancancan (allowing user authorisations).  
+* The JavaScript frontend also allows users to upload geolocation data using jQuery and Google Maps API.   
+
+**[CapyBnB](https://github.com/bwk103/byte4-makers-bnb)** is a basic Airbnb clone which allows hosts to post, edit and delete their properties and allows travellers to enquire and book locations.  
+* The application was developed as part of a team of four people and over the course of five days.
+* The application reads from, and writes to, a PostgreSQL database and uses BCrypt to maintain user security.
+
+**[Chitter](https://github.com/bwk103/chitter-challenge)** is a basic Twitter clone which allows users to register / login and read and post short messages to each other.  
+* The application was developed using Sinatra and uses DataMapper to write to a PostgresQL database.  
+* This was also the first application in which I implemented the Model View Controller structure.
+
+Other applications that I have developed using Ruby include a **[Yelp clone](https://github.com/bwk103/yelp_clone)** and **[Rock, Papers, Scissors, Lizard, Spock](https://github.com/bwk103/rps-challenge)**.
 
 ### Additional Languages
-Many of my projects on the Makers Academy course also enabled me to develop my knowledge of **HTML** and **CSS** as well as **ERB** and **HAML**.
+In working on the projects listed above, I have developed a good understanding of **HTML**, **CSS** and **SASS** and have experience of working with Bootstrap and Foundation front-end frameworks. I have successfully implemented **HAML**, **ERB**, **EJS** and **Handlebars** templating languages and have successfully deployed projects to AWS and Heroku.
 
 ------
 
