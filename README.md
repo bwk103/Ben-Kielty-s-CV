@@ -28,6 +28,9 @@ Following my graduation in March 2017, I have continued to undertake courses and
 * The backend of the application uses Node.js and an Express framework and writes to a MongoDB database.  
 * The frontend is a single-page web application developed using Angular 4.0 and Bootstrap.
 
+**[Look Away Now](https://github.com/bwk103/look-away-now)** is an extension for Google Chrome which hides final scores on NFL.com and allows users to watch highlights without knowing the results.
+
+
 ### Ruby
 
 As part of the Makers course, I completed several projects using Ruby, Sinatra and Rails as well as a number of Gems.
