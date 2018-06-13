@@ -62,6 +62,9 @@ Other applications that I have developed using Ruby include a **[Yelp clone](htt
 * A player is asked a question and then given a set amount of time in which to answer it.
 * Each question can be given a variable time limit at the time that it is added to the database by the admin user.
 
+**[BusTimes](https://github.com/bwk103/busSkill)** a skill for the Amazon Echo which tells the user when the next bus is due.
+* Developed using Node.js, Amazon's Alexa Skill Development Kit, AWS Lambda and tested using bespoken-tools.
+* Uses London Transport's API to obtain live bus information for a given bus stop.
 
 **[Planter](https://github.com/bwk103/planter)** is an application which allows users to manage their lawn and garden plants.
 * A user is able to log the details of plants in their garden and receive reminders as to maintenance work that is required (e.g. watering or pruning).
@@ -69,9 +72,6 @@ Other applications that I have developed using Ruby include a **[Yelp clone](htt
 * The frontend is a single-page web application developed using Angular 4.0 and Bootstrap.
 
 **[Look Away Now](https://github.com/bwk103/look-away-now)** is an extension for Google Chrome which hides final scores on NFL.com and allows users to watch highlights without knowing the results.
-
-### Additional Technologies
-In working on the projects listed above, I have developed a good understanding of **HTML**, **CSS** and **SASS** and have experience of working with Bootstrap and Foundation front-end frameworks. I have successfully implemented **HAML**, **ERB**, **EJS** and **Handlebars** templating languages and have successfully deployed projects to AWS and Heroku.
 
 ------
 
